@@ -1,0 +1,6 @@
+{
+  "name": "OpenCode Cloud Mobile Studio",
+  "description": "Облачный веб-ПК и среда разработки для смартфона без компьютера с генератором развертывания на Render и встроенной IDE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
